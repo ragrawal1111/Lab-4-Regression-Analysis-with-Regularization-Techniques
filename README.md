@@ -1,7 +1,8 @@
 # MSCS_634_Lab_4 — Regression Analysis with Regularization Techniques
 
 **Course:** Advanced Big Data and Data Mining (MSCS-634-B01)  
-**Author:** Rajiv  
+**Author:** Rajiv Agrawal  
+**Instructor:** Satish Penmatsa  
 **Due Date:** March 29, 2026
 
 ---
